@@ -1,1 +1,1 @@
-Virtual Host con un index.thml sencillo creado como prueba# prueba
+Virtual Host con un index.html sencillo creado como prueba# prueba
